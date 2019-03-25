@@ -8,3 +8,6 @@
 
 ### JAVA面试题
 + [基础篇1](interviewFile/basics1.md)
+
+### 总结
++ [Manacher's Algorithm](ManachersAlgorithm.md)
