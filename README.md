@@ -6,6 +6,9 @@
 ### 多线程知识
 + [线程池个人总结](threadpool.md)
 
+### 算法
++ [树的子结构](algorithm/SubstructureOfTree.md)
+
 ### JAVA面试题
 + [基础篇1](interviewFile/basics1.md)
 + [线程题](interviewFile/Thread.md)
