@@ -11,6 +11,7 @@
 
 ### 算法
 + [树的子结构](algorithm/SubstructureOfTree.md)
++ [孩子们的游戏(圆圈中最后剩下的数)](algorithm/ChildrenGames.md)
 
 ### JAVA面试题
 + [基础篇1](interviewFile/basics1.md)
