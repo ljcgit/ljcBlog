@@ -13,6 +13,12 @@
 + [树的子结构](algorithm/SubstructureOfTree.md)
 + [孩子们的游戏(圆圈中最后剩下的数)](algorithm/ChildrenGames.md)
 
+### MyBatis
++ [示例](mybatis/firstDemo.md)
++ [全局配置文件](mybatis/configuration.md)
++ [动态sql](mybatis/dynamicSql.md)
++ [mybatis缓存](mybatis/mybatisCache.md)
+
 ### JAVA面试题
 + [基础篇1](interviewFile/basics1.md)
 + [线程题](interviewFile/Thread.md)
