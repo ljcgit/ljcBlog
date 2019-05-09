@@ -12,6 +12,7 @@
 ### 算法
 + [树的子结构](algorithm/SubstructureOfTree.md)
 + [孩子们的游戏(圆圈中最后剩下的数)](algorithm/ChildrenGames.md)
++ [重建二叉树](algorithm/RebuildBTree.md)
 
 ### MyBatis
 + [示例](mybatis/firstDemo.md)
