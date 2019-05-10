@@ -20,6 +20,7 @@
 + [全局配置文件](mybatis/configuration.md)
 + [动态sql](mybatis/dynamicSql.md)
 + [mybatis缓存](mybatis/mybatisCache.md)
++ [Enum处理](mybatis/EnumHandler.md)
 
 ### JAVA面试题
 + [基础篇1](interviewFile/basics1.md)
