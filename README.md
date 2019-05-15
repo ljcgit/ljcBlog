@@ -15,6 +15,9 @@
 + [重建二叉树](algorithm/RebuildBTree.md)
 + [二叉搜索树与双向链表](algorithm/BinarySearchTree.md)
 
+### 设计模式
++ [Facade模式](DesignPattern/Facade.md)
+
 ### MyBatis
 + [示例](mybatis/firstDemo.md)
 + [全局配置文件](mybatis/configuration.md)
