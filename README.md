@@ -17,6 +17,7 @@
 
 ### 设计模式
 + [Facade模式](DesignPattern/Facade.md)
++ [Adapter模式](DesignPattern/Adapter.md)
 
 ### MyBatis
 + [示例](mybatis/firstDemo.md)
