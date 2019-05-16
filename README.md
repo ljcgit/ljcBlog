@@ -3,6 +3,7 @@
 ### JVM知识
 + [Java基本类型](baseType.md)
 + [JVM是如何处理异常的？](jvm/Exception.md)
++ [垃圾收集器](jvm/GC.md)
 
 ### SpringBoot
 + [个人笔记](springboot/MyNotes.md)
