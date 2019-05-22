@@ -3,6 +3,9 @@
 ### 计算机网络
 + [三次握手](Network/ThreeHandShaking.md)
 
+### Redis
++ [Redis笔记](redis/note.md)
+
 ### JVM知识
 + [Java基本类型](baseType.md)
 + [JVM是如何处理异常的？](jvm/Exception.md)
