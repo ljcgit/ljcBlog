@@ -36,6 +36,12 @@
 + [mybatis缓存](mybatis/mybatisCache.md)
 + [Enum处理](mybatis/EnumHandler.md)
 
+### Nginx
++ [Nginx笔记1](/nginx/note1.md)
++ [Nginx笔记2](/nginx/note2.md)
++ [Nginx笔记3](/nginx/note3.md)
++ [Nginx笔记4](/nginx/note4.md)
+
 ### JAVA面试题
 + [基础篇1](interviewFile/basics1.md)
 + [线程题](interviewFile/Thread.md)
