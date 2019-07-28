@@ -25,6 +25,9 @@
 + [数据流中的中位数](algorithm/MedianOfData.md)
 + [Cousins In BinaryTree](algorithm/CousinsInBinaryTree.md)
 
+### 贪心算法
++ [Jump Game](/greed/leetcode55.md)
+
 ### 设计模式
 + [Facade模式](DesignPattern/Facade.md)
 + [Adapter模式](DesignPattern/Adapter.md)
