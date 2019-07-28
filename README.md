@@ -28,6 +28,7 @@
 ### 贪心算法
 + [Jump Game](/greed/leetcode55.md)
 + [Jump Game II](/greed/leetcode45.md)
++ [Queue Reconstruction by Height](/greed/leetcode406.md)
 
 ### 设计模式
 + [Facade模式](DesignPattern/Facade.md)
