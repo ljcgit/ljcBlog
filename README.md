@@ -57,3 +57,4 @@
 + [Manacher's Algorithm](ManachersAlgorithm.md)
 + [Puppeteer的配置和使用](Puppeteer.md)
 + [Paxos算法](/summary/Paxos.md)
++ [HashMap](/summary/hashmap.md)
