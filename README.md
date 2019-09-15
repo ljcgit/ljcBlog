@@ -15,6 +15,15 @@
 ### SpringBoot
 + [个人笔记](springboot/MyNotes.md)
 
+
+## SpringCloud
++ [Hystrix](/springcloud/Hystrix.md)
++ [Zuul](/springcloud/Zuul.md)
++ [Eureka](/springcloud/Eureka.md)
++ [Config](/springcloud/Config.md)
++ [Ribbon](/springcloud/Ribbon.md)
+
+
 ### 多线程知识
 + [线程池个人总结](threadpool.md)
 
