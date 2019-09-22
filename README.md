@@ -1,3 +1,5 @@
+> 说明：可能GitHub上不是全部博客，可以前往简书查看。[简书地址](https://www.jianshu.com/u/682466c6b423)
+
 # Menu
 
 ### 计算机网络
