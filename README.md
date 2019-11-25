@@ -1,7 +1,5 @@
 > 说明：可能GitHub上不是全部博客，可以前往简书查看。[简书地址](https://www.jianshu.com/u/682466c6b423)
 
-![测试图片](http://q0yp9vvaq.bkt.clouddn.com/%E6%88%AA%E5%B1%8F2019-11-15%E4%B8%8A%E5%8D%8810.23.03.png)
-
 
 # Menu
 
