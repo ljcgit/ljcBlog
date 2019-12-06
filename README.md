@@ -18,8 +18,11 @@
 ### SpringBoot
 + [个人笔记](springboot/MyNotes.md)
 
+### Netty
++ [个人笔记1](netty/note1.md)
++ [ChannelInitializer实现流程](netty/initializer.md)
 
-## SpringCloud
+### SpringCloud
 + [Hystrix](/springcloud/Hystrix.md)
 + [Zuul](/springcloud/Zuul.md)
 + [Eureka](/springcloud/Eureka.md)
