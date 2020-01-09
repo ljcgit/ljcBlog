@@ -2,6 +2,8 @@
 
 
 # Menu
+### kafka
++ [配置kafka](kafka/deploy.md)
 
 ### 计算机网络
 + [三次握手](Network/ThreeHandShaking.md)
