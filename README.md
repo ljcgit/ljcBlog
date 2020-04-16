@@ -2,6 +2,14 @@
 
 
 # Menu
+### Elasticsearch
++ [打分](/Elasticsearch/打分.md)
++ [分析](/Elasticsearch/分析.md)
++ [聚集](/Elasticsearch/聚集.md)
++ [搜索](/Elasticsearch/搜索.md)
++ [文档关系](/Elasticsearch/文档关系.md)
+
+
 ### kafka
 + [配置kafka](kafka/deploy.md)
 
