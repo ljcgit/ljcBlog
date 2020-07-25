@@ -12,6 +12,7 @@
 
 ### Java
 + [rmi](/java/rmi.md)
++ [String是否是线程安全的?](/java/String.md)
 
 ### kafka
 + [配置kafka](kafka/deploy.md)
