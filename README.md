@@ -10,6 +10,9 @@
 + [文档关系](/Elasticsearch/文档关系.md)
 
 
+### Java
++ [rmi](/java/rmi.md)
+
 ### kafka
 + [配置kafka](kafka/deploy.md)
 
