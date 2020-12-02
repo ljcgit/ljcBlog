@@ -14,6 +14,7 @@
 + [rmi](/java/rmi.md)
 + [String是否是线程安全的?](/java/String.md)
 + [线程池基本内容](/java/threadpool.md)
++ [静态资源路径](/java/getResource.md)
 
 ### kafka
 + [配置kafka](kafka/deploy.md)
