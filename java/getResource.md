@@ -74,7 +74,7 @@ getResourceAsStream()其实就是在getReource() + new InputStream()。
 
 
 
-### 3.Class.getResource()实现
+## 3.Class.getResource()实现
 
 ```java
 public java.net.URL getResource(String name) {
@@ -93,4 +93,48 @@ public java.net.URL getResource(String name) {
 
 
 Class的getResouce方法实际调用就是ClassLoader的getResource方法，只不过在调用前对文件名进行了额外的处理，将“”转为了包路径，“/”转为了“”。
+
+
+## 4.示例
+```java
+
+    /**
+     * 无内容返回
+     */
+    @GetMapping("/getTextFromFile")
+    public String getTextFromFile() throws IOException {
+        String filePath = MyFileOperation.class.getResource("/a.txt").getPath();
+        // **.jar!/BOOT-INF/classes!/a.txt
+        System.out.println(filePath);
+        File file = new File(filePath);
+        StringBuilder s = new StringBuilder();
+        if (file.exists()) {
+            InputStreamReader isr = new InputStreamReader(new FileInputStream(file), "gbk");
+            BufferedReader bufferedReader = new BufferedReader(isr);
+            String str;
+            while ((str = bufferedReader.readLine()) != null) {
+                s.append(str);
+            }
+        }
+        return s.toString();
+    }
+    
+    
+    /**
+     *
+     */
+    @GetMapping("/getTextFromFileByStream")
+    public String getTextFromFileByStream() throws IOException {
+        StringBuilder s = new StringBuilder();
+        InputStreamReader isr = new InputStreamReader( MyFileOperation.class.getResourceAsStream("/a.txt"), "gbk");
+        BufferedReader bufferedReader = new BufferedReader(isr);
+        String str;
+        while ((str = bufferedReader.readLine()) != null) {
+            s.append(str);
+        }
+        return s.toString();
+    }
+```
+
+
 
