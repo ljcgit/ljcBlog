@@ -69,13 +69,13 @@ public class X implements InitializingBean, DisposableBean {
 
 输出顺序：
 
-> X construct...
-> PostConstruct.....
-> afterPropertiesSet...
-> init...
-> PreDestroy.....
-> destroy...
-> destroyMethod...
+> X construct... </br>
+> PostConstruct..... </br>
+> afterPropertiesSet... </br>
+> init... </br>
+> PreDestroy..... </br>
+> destroy... </br>
+> destroyMethod... </br>
 
 
 
@@ -217,10 +217,10 @@ protected void invokeInitMethods(String beanName, Object bean, @Nullable RootBea
 
 按照顺序执行，就能看出这里会先执行afterPropertiesSet方法，然后是自定义的init方法。
 
-> 执行完该方法会输出：
->
-> afterPropertiesSet...
-> init...
+> 执行完该方法会输出： </br>
+> </br>
+> afterPropertiesSet... </br>
+> init... </br>
 
 
 
@@ -265,6 +265,6 @@ public void destroy() {
 
 > 执行完destroy方法，会依次输出：
 >
-> PreDestroy.....
-> destroy...
-> destroyMethod...
+> PreDestroy..... </br>
+> destroy... </br>
+> destroyMethod... </br>
