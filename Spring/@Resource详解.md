@@ -94,7 +94,7 @@ public class Test {
 
 实际执行结果：
 
-![image-20210331103704825](images/image-20210331103704825的副本2.png)
+![image-20210331103704825](/images/image-20210331103704825的副本2.png)
 
 这里可以清楚的看到报了`NoUniqueBeanDefinitionException`异常，说是希望单个Bean的匹配，却找到了多个。
 
@@ -189,7 +189,7 @@ public ResourceElement(Member member, AnnotatedElement ae, @Nullable PropertyDes
 
 下面是具体的ResourceElement类对象中的各属性。
 
-![image-20210331103357922](/images/image-20210331103357922.png)
+![image-20210331103357922](/images/image-20210331103357922的副本2.png)
 
 
 
