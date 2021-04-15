@@ -7,6 +7,7 @@
 + [Spring循环依赖](/Spring/Spring循环依赖.md)
 + [@Resource详解](/Spring/@Resource详解.md)
 + [@Autowired详解](/Spring/@Autowired详解.md)
++ [Spring为什么需要使用三级缓存？](/Spring/buffer.md)
 
 
 ### Elasticsearch
