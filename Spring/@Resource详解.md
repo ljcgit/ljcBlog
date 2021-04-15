@@ -411,7 +411,7 @@ name属性被设置为banana，isDefaultName变为false，执行resolveBeanByNam
 
 ![image-20210331150628161](/images/image-20210331150628161的副本2.png)
 
-- 当@Resource不设置任何属性值时，会走**resolveDependency**方法，获取到所有类型匹配的bean来进行选择；
-- 只指定了type属性时，会找到唯一的一个类型匹配的bean；
-- 只指定了name属性，会执行**getBean**方法，根据指定的name来获取bean；
-- 既指定了name属性，又指定了type属性，就会获取同时满足了两个条件的bean。
++ 当@Resource不设置任何属性值时，会走**resolveDependency**方法，获取到所有类型匹配的bean来进行选择（**如果对应bean已经被创建并保存到BeanFactory中，还是会走byName的形式**）；
++ 只指定了type属性时，会找到唯一的一个类型匹配的bean；
++ 只指定了name属性，会执行**getBean**方法，根据指定的name来获取bean；
++ 既指定了name属性，又指定了type属性，就会获取同时满足了两个条件的bean。
