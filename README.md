@@ -1,4 +1,4 @@
-> 说明：可能GitHub上不是全部博客，可以前往简书查看。[简书地址](https://www.jianshu.com/u/682466c6b423)
+> 说明：可能GitHub上不是全部博客，可以前往CSDN查看。[CSDN地址](https://blog.csdn.net/ljcgit)
 
 
 # Menu
